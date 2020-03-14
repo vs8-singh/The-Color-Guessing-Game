@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    background: steelblue;
+    margin: 0;
+    padding-top: 20px;
+    /* height: 100px; */
+    padding-bottom: 20px;
+    line-height: 1.1;
+    font-family: Montserrat;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+#message{
+    display: inline-block;
+    width: 20%;
+    color: steelblue;
+}
+body{
+    background: #232323;
+}
+button:hover{
+    color:white;
+    background: steelblue;
+}
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+    padding-top: 40px;
+}
+.square{
+    background: purple;
+    borde;
+    float: left;
+    width: 30%;
+    margin:1.66%;
+    padding-bottom: 30%;
+    transition: all 0.4s;
+    border-radius: 20%;
+}
+/* span{
+    color:white;
+} */
+#stripe{
+    text-align:center;
+    background: white;
+    height: 30px;
+    color: black;
+}
+#pick{
+    font-size: 200%;
+}
+.selected{
+    background: blue;
+    color: white;
+}
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    color: steelblue;
+    height: 30px;
+    font-size: inherit;
+    font-weight: 700;
+    letter-spacing: 1px;
+    transition: all 0.4s;
+}
